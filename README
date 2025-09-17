@@ -9,3 +9,21 @@ in the development cycle.
 
 More information about PlatformIO Unit Testing:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+This is the file structure
+
+T114 Blank Sketch
+|
+|___ include 
+|    |___ READ ME
+|    
+|___ lib
+|    |___ READ ME
+|
+|___ src
+|    |___ main.cpp
+|
+|___ test
+|    |___ READ ME
+|
+|_ platform.ini
